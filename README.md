@@ -16,6 +16,10 @@ This specialization provides comprehensive training in data science concepts, te
 
 Clone this repository and explore the organized folders by course module or topic.
 
+### Environment Setup & Running Scripts
+
+To set up the Python virtual environment (`venv`) and run scripts without missing module errors (e.g. `ModuleNotFoundError: No module named 'matplotlib'`), refer to the step-by-step guide in [**INSTRUCOES_EXECUCAO.md**](INSTRUCOES_EXECUCAO.md).
+
 ## Contributing
 
 Feel free to contribute improvements, fixes, or additional resources to enhance the learning experience.
