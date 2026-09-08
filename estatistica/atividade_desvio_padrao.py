@@ -4,7 +4,7 @@ Disciplina: Estatística Aplicada à Ciência de Dados
 Professor: João Maria Filgueira
 
 Atividade: Provar que a Média possui a menor variação em relação aos dados.
-Resolução dos Exercícios 1 e 2 do arquivo Atividade_Desvio_Padrao.pdf.
+Resolução dos Exercícios 1 e 2 do arquivo 2026-09-01-atividade-desvio-padrao.md.
 """
 
 import math
