@@ -176,7 +176,54 @@ Para que o botão de "Run" (Play) da IDE e o autocomplete usem o `.venv` automat
 
 ---
 
-## 5. Alternativa Rápida com `uv`
+## 5. Executando Notebooks Jupyter com Kernel Global
+
+Se você deseja executar **notebooks `.ipynb`** de forma independente do projeto (reutilizando um kernel global em múltiplos projetos), siga os passos abaixo:
+
+### Passo 1: Instalar Jupyter globalmente (uma única vez)
+
+Em um WSL, Linux ou macOS com restrição de pacotes de sistema, use:
+
+```bash
+python3 -m pip install --break-system-packages ipykernel jupyter -U --user
+```
+
+Ou, se preferir um ambiente virtual global isolado:
+
+```bash
+python3 -m venv ~/.venv-jupyter
+source ~/.venv-jupyter/bin/activate
+python -m pip install ipykernel jupyter
+python -m ipykernel install --user --name jupyter --display-name "Python (Jupyter Global)"
+```
+
+### Passo 2: Usar notebooks em qualquer projeto
+
+1. Abra o notebook (`.ipynb`) no VS Code.
+2. No canto superior direito, clique no seletor de kernel.
+3. Escolha **"Python (Jupyter Global)"** ou o kernel registrado.
+4. Execute as células normalmente.
+
+### Passo 3: Instalar pacotes específicos do notebook
+
+Se o notebook precisar de bibliotecas extras (como `requests`, `beautifulsoup4`):
+
+- **Opção A:** Instale globalmente (recomendado para notebooks reutilizáveis):
+  ```bash
+  python3 -m pip install --break-system-packages <pacote> -U --user
+  ```
+
+- **Opção B:** Dentro do notebook, use uma célula:
+  ```python
+  import subprocess
+  import sys
+  subprocess.check_call([sys.executable, "-m", "pip", "install", "--break-system-packages", "requests"])
+  ```
+
+---
+
+## 6. Alternativa Rápida com `uv`
+
 
 Este repositório possui suporte ao gerenciador `uv` (localizado em `.bin/uv`). Caso queira utilizá-lo:
 
@@ -193,7 +240,7 @@ Este repositório possui suporte ao gerenciador `uv` (localizado em `.bin/uv`). 
 
 ---
 
-## 6. Resolução de Dúvidas e Erros Frequentes
+## 7. Resolução de Dúvidas e Erros Frequentes
 
 | Erro / Situação | Causa | Solução |
 | :--- | :--- | :--- |
