@@ -265,10 +265,10 @@ No terminal, a partir da raiz do repositório:
 source .venv/bin/activate
 
 # 2. Executar o script estatístico
-python estatistica/atividade_desvio_padrao.py
+python pos-1035-estatistica-aplicada/atividade-01-desvio-padrao/atividade_desvio_padrao.py
 ```
 
-O script imprimirá no terminal a memória de cálculo completa, as tabelas formatadas e salvará o arquivo de alta resolução [`grafico_desvio_padrao.png`](./grafico_desvio_padrao.png) na pasta `estatistica/`.
+O script imprimirá no terminal a memória de cálculo completa, as tabelas formatadas e salvará o arquivo de alta resolução [`grafico_desvio_padrao.png`](./grafico_desvio_padrao.png) na pasta desta atividade.
 
 ---
 
