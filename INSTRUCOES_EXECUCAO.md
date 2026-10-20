@@ -4,7 +4,7 @@ Este guia explica como configurar e utilizar um ambiente virtual (`venv`) em Pyt
 
 ```text
 Traceback (most recent call last):
-  File "estatistica/atividade_desvio_padrao.py", line 19, in <module>
+  File "pos-1035-estatistica-aplicada/atividade-01-desvio-padrao/atividade_desvio_padrao.py", line 19, in <module>
     import matplotlib
 ModuleNotFoundError: No module named 'matplotlib'
 ```
@@ -27,7 +27,7 @@ Se a pasta `.venv/` já estiver criada na raiz do repositório:
 
 1. Certifique-se de estar na **pasta raiz do repositório** (`data-science/`):
    ```bash
-   # Se estiver dentro de uma subpasta (como 'estatistica/'), volte para a raiz:
+   # Se estiver dentro de uma subpasta (como a pasta de uma atividade), volte para a raiz:
    cd ~/workspace/data-science
    ```
 
@@ -36,7 +36,7 @@ Se a pasta `.venv/` já estiver criada na raiz do repositório:
      ```bash
      source .venv/bin/activate
      ```
-     *(Se você já estiver dentro da pasta `estatistica/`, use `source ../.venv/bin/activate`)*
+     *(Se você já estiver dentro da pasta de uma atividade, que fica 2 níveis abaixo da raiz, use `source ../../.venv/bin/activate`)*
    - **Windows (PowerShell)**:
      ```powershell
      .venv\Scripts\Activate.ps1
@@ -51,9 +51,9 @@ Se a pasta `.venv/` já estiver criada na raiz do repositório:
 4. Execute o script desejado:
    - Se estiver na raiz (`data-science/`):
      ```bash
-     python estatistica/atividade_desvio_padrao.py
+     python pos-1035-estatistica-aplicada/atividade-01-desvio-padrao/atividade_desvio_padrao.py
      ```
-   - Se estiver dentro da pasta `estatistica/`:
+   - Se estiver dentro da pasta da atividade (`pos-1035-estatistica-aplicada/atividade-01-desvio-padrao/`):
      ```bash
      python atividade_desvio_padrao.py
      ```
@@ -72,21 +72,21 @@ Você pode invocar diretamente o executável do Python do ambiente virtual sem p
 - **Linux / macOS**:
   - Se estiver na raiz (`data-science/`):
     ```bash
-    ./.venv/bin/python estatistica/atividade_desvio_padrao.py
+    ./.venv/bin/python pos-1035-estatistica-aplicada/atividade-01-desvio-padrao/atividade_desvio_padrao.py
     ```
-  - Se estiver dentro da pasta `estatistica/`:
+  - Se estiver dentro da pasta da atividade (`pos-1035-estatistica-aplicada/atividade-01-desvio-padrao/`):
     ```bash
-    ../.venv/bin/python atividade_desvio_padrao.py
+    ../../.venv/bin/python atividade_desvio_padrao.py
     ```
 
 - **Windows**:
   - Se estiver na raiz (`data-science\`):
     ```powershell
-    .venv\Scripts\python.exe estatistica\atividade_desvio_padrao.py
+    .venv\Scripts\python.exe pos-1035-estatistica-aplicada\atividade-01-desvio-padrao\atividade_desvio_padrao.py
     ```
-  - Se estiver dentro da pasta `estatistica\`:
+  - Se estiver dentro da pasta da atividade:
     ```powershell
-    ..\.venv\Scripts\python.exe atividade_desvio_padrao.py
+    ..\..\.venv\Scripts\python.exe atividade_desvio_padrao.py
     ```
 
 ---
@@ -156,7 +156,7 @@ Exemplos de execução:
 
 ```bash
 # Atividade de Estatística (Média, Desvio Padrão e Gráficos)
-python estatistica/atividade_desvio_padrao.py
+python pos-1035-estatistica-aplicada/atividade-01-desvio-padrao/atividade_desvio_padrao.py
 
 # Tutorial de Vendas
 python tutorial_python/analise_vendas_mensais.py
@@ -235,7 +235,7 @@ Este repositório possui suporte ao gerenciador `uv` (localizado em `.bin/uv`). 
 ./.bin/uv pip install -r requirements.txt
 
 # 3. Executar o script
-./.venv/bin/python estatistica/atividade_desvio_padrao.py
+./.venv/bin/python pos-1035-estatistica-aplicada/atividade-01-desvio-padrao/atividade_desvio_padrao.py
 ```
 
 ---
@@ -245,8 +245,8 @@ Este repositório possui suporte ao gerenciador `uv` (localizado em `.bin/uv`). 
 | Erro / Situação | Causa | Solução |
 | :--- | :--- | :--- |
 | `ModuleNotFoundError: No module named 'matplotlib'` | O terminal está usando o Python global em vez do `.venv`. | Execute `source .venv/bin/activate` ou use `./.venv/bin/python script.py`. |
-| `bash: .venv/bin/activate: No such file or directory` | O comando foi executado dentro de uma subpasta (ex: `estatistica/`). | Volte para a raiz com `cd ..` e execute `source .venv/bin/activate`, ou use `source ../.venv/bin/activate`. |
+| `bash: .venv/bin/activate: No such file or directory` | O comando foi executado dentro de uma subpasta (ex: `pos-1035-estatistica-aplicada/atividade-01-desvio-padrao/`). | Volte para a raiz com `cd ../..` e execute `source .venv/bin/activate`, ou use `source ../../.venv/bin/activate`. |
 | `ensurepip is not available` ao criar o venv no Linux | Sistema Debian/Ubuntu sem o pacote `python3-venv`. | Execute `sudo apt install python3-venv python3-pip`. |
 | `Activate.ps1 cannot be loaded...` no Windows | Política de execução de scripts restrita no PowerShell. | Execute `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned`. |
-| Imagem do gráfico não abre na tela | Ambiente headless (terminal sem interface gráfica/X11). | O script detecta automaticamente e salva a imagem em [`estatistica/grafico_desvio_padrao.png`](./estatistica/grafico_desvio_padrao.png). |
+| Imagem do gráfico não abre na tela | Ambiente headless (terminal sem interface gráfica/X11). | O script detecta automaticamente e salva a imagem em [`pos-1035-estatistica-aplicada/atividade-01-desvio-padrao/grafico_desvio_padrao.png`](./pos-1035-estatistica-aplicada/atividade-01-desvio-padrao/grafico_desvio_padrao.png). |
 
