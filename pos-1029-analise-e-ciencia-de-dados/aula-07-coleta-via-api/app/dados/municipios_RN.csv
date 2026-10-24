@@ -2,7 +2,7 @@
 # api_doc: https://servicodados.ibge.gov.br/api/docs/localidades#api-Municipios-estadosUFMunicipiosGet
 # fonte: Instituto Brasileiro de Geografia e Estatística (IBGE)
 # licenca: Creative Commons Atribuição - CC BY
-# data_coleta: 2026-10-15 13:03
+# data_coleta: 2026-10-20 11:11
 # nome_arquivo: municipios_RN
 # qtd_registros: 167
 id,nome,microrregiao.id,microrregiao.nome,microrregiao.mesorregiao.id,microrregiao.mesorregiao.nome,microrregiao.mesorregiao.UF.id,microrregiao.mesorregiao.UF.sigla,microrregiao.mesorregiao.UF.nome,microrregiao.mesorregiao.UF.regiao.id,microrregiao.mesorregiao.UF.regiao.sigla,microrregiao.mesorregiao.UF.regiao.nome,regiao-imediata.id,regiao-imediata.nome,regiao-imediata.regiao-intermediaria.id,regiao-imediata.regiao-intermediaria.nome,regiao-imediata.regiao-intermediaria.UF.id,regiao-imediata.regiao-intermediaria.UF.sigla,regiao-imediata.regiao-intermediaria.UF.nome,regiao-imediata.regiao-intermediaria.UF.regiao.id,regiao-imediata.regiao-intermediaria.UF.regiao.sigla,regiao-imediata.regiao-intermediaria.UF.regiao.nome

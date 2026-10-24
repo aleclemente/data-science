@@ -14,12 +14,13 @@ The repository is organized **by course, then by class or activity**. Each cours
 |---|---|---|---|
 | [POS.1029 — Análise e Ciência de Dados](pos-1029-analise-e-ciencia-de-dados/) | [Aula 06 — Processos e fontes de dados](pos-1029-analise-e-ciencia-de-dados/aula-06-processos-e-fontes-de-dados/) | Collect from JSON and a public API (CNES), store in SQLite, query with SQL, export to CSV/Parquet, web-scraping ethics checklist | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleclemente/data-science/blob/main/pos-1029-analise-e-ciencia-de-dados/aula-06-processos-e-fontes-de-dados/Aula06_Processos_e_Fontes_de_Dados.ipynb) |
 | | [Aula 07 — Coleta de dataset real via API](pos-1029-analise-e-ciencia-de-dados/aula-07-coleta-via-api/) | Mini-project: collect real datasets from the IBGE and TSE open-data APIs, with pagination and a provenance block, saved to JSON/CSV | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleclemente/data-science/blob/main/pos-1029-analise-e-ciencia-de-dados/aula-07-coleta-via-api/app/Aula-07-coleta-de-dataset-real-via-API.ipynb) |
+| | [Aula 08 — Web scraping com BeautifulSoup](pos-1029-analise-e-ciencia-de-dados/aula-08-web-scraping/) | Scrape a fictional local book-review site (served on localhost), respecting `robots.txt`, and save the reviews to CSV/JSON; guided lab plus exercise | Local notebook (needs the bundled site) |
 | [POS.1035 — Estatística Aplicada à Ciência de Dados](pos-1035-estatistica-aplicada/) | [Atividade 01 — Média e desvio padrão](pos-1035-estatistica-aplicada/atividade-01-desvio-padrao/) | Show that the mean minimizes the sum of squared deviations, compute the sample standard deviation, plot the comparison | Python script |
 | [POS.1036 — Introdução ao Aprendizado de Máquina](pos-1036-aprendizado-de-maquina/) | — | No activity published yet | — |
 
 Other folders:
 
-- [tutorial_python/](tutorial_python/) — Python warm-up exercises (lists, functions, NumPy).
+- [pos-1029-analise-e-ciencia-de-dados/tutorial_python/](pos-1029-analise-e-ciencia-de-dados/tutorial_python/) — Python warm-up exercises (lists, functions, NumPy).
 
 ## Getting Started
 
