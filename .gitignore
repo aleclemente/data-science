@@ -1,3 +1,5 @@
 .bin
 .venv
 __pycache__/
+# Listas de aulas do SUAP: ficam só no computador do Alexandre (decisão de 24/10)
+docs/
