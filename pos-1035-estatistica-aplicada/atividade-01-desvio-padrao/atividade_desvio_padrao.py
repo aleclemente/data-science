@@ -237,7 +237,7 @@ def plotar_graficos(valores, media, mediana, moda, soma_media, soma_mediana, som
 
     plt.tight_layout()
 
-    # Salva o arquivo de imagem diretamente dentro da pasta estatistica
+    # Salva o arquivo de imagem na mesma pasta deste script
     output_dir = os.path.dirname(os.path.abspath(__file__))
     output_png = os.path.join(output_dir, "grafico_desvio_padrao.png")
     plt.savefig(output_png, dpi=300, bbox_inches="tight")
