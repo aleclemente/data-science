@@ -1,0 +1,19 @@
+coluna,tipo,descricao
+id_exame,str,Identificador único do exame
+id_paciente,str,Identificador único do paciente
+data_coleta,datetime64[us],Data da realização da coleta do exame
+sexo,str,Sexo do paciente (F / M)
+idade,float64,Idade do paciente em anos
+tipo_exame,str,Nome do exame realizado
+resultado,float32,Valor numérico do resultado do exame
+unidade,str,"Unidade de medida do resultado (ex: mg/dL, g/dL)"
+laboratorio,str,Nome da unidade laboratorial responsável
+prioridade,str,"Nível de prioridade do atendimento (Rotina, Urgente, Emergência)"
+faixa_etaria,category,"Faixa etária do paciente '0-17', '18-39', '40-59', '60-79', '80+' (pd.cut)"
+mes_coleta,int32,Mês da coleta (1-12)
+alterado,bool,Indicador se o resultado está fora da referência (True/False)
+prioridade_cod,int64,"Prioridade ordinal (0=Rotina, 1=Urgente, 2=Emergência)"
+tipo_exame_colesterol_total,int64,one-hot do diagnóstico (0/1)
+tipo_exame_creatinina,int64,one-hot do diagnóstico (0/1)
+tipo_exame_glicemia,int64,one-hot do diagnóstico (0/1)
+tipo_exame_hemoglobina,int64,one-hot do diagnóstico (0/1)
