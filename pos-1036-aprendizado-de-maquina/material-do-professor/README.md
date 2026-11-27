@@ -1,0 +1,19 @@
+# Introdução ao Aprendizado de Máquina
+Conteúdo da disciplina de Introdução ao Aprendizado de Máquina no curso de especialização em Ciência de Dados ofertado pelo IFRN.
+
+[Plano de curso](https://github.com/alexlimatds/esp_introducao_am/blob/main/ementa_introducao_ao_aprendizado_de_maquina.pdf)
+
+## Aulas
+- [1 - Introdução ao Aprendizado de Máquina](01_introducao.md)
+- [2 - Vetores e matrizes](02_vetores_e_matrizes.ipynb)
+- [3 - Classificação com K-NN](03_classificacao_com_knn.ipynb)
+- [4 - Caracterização e pré-processamento de atributos](04_caracterizacao_e_pre_processamento_de_dados.ipynb)
+- [5 - Classificação com árvores de decisão](05_classificacao_com_arvores_de_decisao.ipynb)
+- [6 - Avaliação de modelos de classificação](06_avaliacao_de_modelos_de_classificacao.ipynb)
+- [Estudo de caso de classificação sobre um dataset desbalanceado + atividade](estudo_de_caso_wine_dataset.ipynb)
+- [7 - Classificação com floresta aleatória](https://github.com/alexlimatds/esp_introducao_am/blob/main/07_classificacao_random_forest.ipynb)
+
+## Recursos extras
+
+- [Série de cursos sobre aprendizado de máquina da Google](https://developers.google.com/machine-learning/foundational-courses?hl=pt-br)
+- [Curso gratuito da DSA: Fundamentos de Linguagem Python - Do Básico a Aplicações de IA](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-do-basico-a-aplicacoes-de-ia)
