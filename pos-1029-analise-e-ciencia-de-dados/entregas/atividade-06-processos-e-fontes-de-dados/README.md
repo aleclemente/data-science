@@ -1,6 +1,6 @@
 # Atividade 06 — Processos e fontes de dados
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleclemente/ciencias-de-dados/blob/main/pos-1029-analise-e-ciencia-de-dados/entregas/atividade-06-processos-e-fontes-de-dados/atividade-06-processos-e-fontes-de-dados.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleclemente/data-science/blob/main/pos-1029-analise-e-ciencia-de-dados/entregas/atividade-06-processos-e-fontes-de-dados/atividade-06-processos-e-fontes-de-dados.ipynb)
 
 **Disciplina:** POS.1029 — Análise e Ciência de Dados · **Professor:** Plácido Neto · **Avaliada:** sim
 

@@ -9,7 +9,7 @@
 
 | Atividade | Tema | Avaliada | Notebook |
 |---|---|---|---|
-| [01](entregas/atividade-01-centroides-cancer-de-mama/) | Detecção de câncer de mama com centroides médios (Breast Cancer Wisconsin) | sim | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleclemente/ciencias-de-dados/blob/main/pos-1036-aprendizado-de-maquina/entregas/atividade-01-centroides-cancer-de-mama/atividade-01-centroides-cancer-de-mama.ipynb) |
+| [01](entregas/atividade-01-centroides-cancer-de-mama/) | Detecção de câncer de mama com centroides médios (Breast Cancer Wisconsin) | sim | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleclemente/data-science/blob/main/pos-1036-aprendizado-de-maquina/entregas/atividade-01-centroides-cancer-de-mama/atividade-01-centroides-cancer-de-mama.ipynb) |
 
 Uma atividade só entra aqui depois do prazo de entrega. As próximas são a 02 (desbalanceamento de classes no dataset do vinho) e a 03 (reprodutibilidade de um artigo de ML).
 

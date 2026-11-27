@@ -1,4 +1,4 @@
-# AGENTS.md — ciencias-de-dados
+# AGENTS.md — data-science
 
 Instruções para agentes de IA (Claude Code e outros) que trabalham neste repositório.
 
