@@ -1,0 +1,154 @@
+Instruções iniciais:
+Utilizando os Portais Observatório Sebrae, IpeaData e Ibge-Cidades, elaborem um texto mostrando Fatores relevantes para que um Município tenha alto Valor Adicionado no setor de INDÚSTRIA, no de Serviços, no de Administração. Para isto, realizem as ações:
+
+(1) Selecionem PELO MENOS UM MUNICÍPIO com alto Valor Adicionado na Indústria
+(2) Identifiquem fatores relevantes para essa realidade
+(3) Elaborem um TEXTO, com gráficos, explicando essa realidade
+(4) Repitam os itens (1), (2) e (3) para Serviços, e finalmente para a Administração.
+(5) Apresentem CONTRIBUIÇÕES, dialogando o TEXTO produzido com UM ARTIGO sobre desenvolvimento sócioeconômico.
+
+Prompt criado:
+
+Atue como pesquisador de economia regional e desenvolvimento socioeconômico.
+Elabore um artigo acadêmico, dissertativo-argumentativo, sobre os fatores que explicam o alto Valor Adicionado Bruto (VAB) nos setores de Indústria, Serviços e Administração Pública nos municípios do Rio Grande do Norte.
+
+Objetivo
+Identificar e analisar três municípios do RN que se destaquem, preferencialmente um em cada setor:
+
+Indústria;
+Serviços;
+Administração, defesa, educação e saúde públicas e seguridade social.
+Os municípios devem ser escolhidos com base nos dados, e não previamente. Se um mesmo município se destacar em mais de um setor, explique o motivo e, quando possível, escolha municípios diferentes para ampliar a comparação.
+
+Fontes
+Utilize prioritariamente dados oficiais e atuais de:
+
+IBGE Cidades;
+PIB dos Municípios — IBGE;
+IpeaData;
+Observatório Sebrae.
+Utilize também pelo menos um artigo acadêmico ou fonte institucional sobre desenvolvimento socioeconômico ou desenvolvimento regional para fundamentar a discussão.
+Não invente dados. Para cada indicador relevante, informe fonte, ano de referência e unidade de medida. Quando um dado não estiver disponível, informe claramente.
+
+Metodologia
+Antes de escrever o artigo:
+
+Identifique os municípios candidatos para cada setor.
+Escolha os três municípios com base em critérios objetivos, como VAB absoluto, participação do setor no VAB municipal, evolução histórica e relevância econômica.
+Verifique se os anos e unidades dos dados são compatíveis.
+Registre eventuais limitações ou inconsistências.
+Só então redija o artigo.
+Diferencie sempre PIB, VAB, participação percentual, crescimento nominal/real e PIB per capita.
+
+Estrutura do artigo
+1. Introdução
+Apresente o VAB como indicador da estrutura produtiva municipal, explique sua importância para compreender a economia do RN e apresente o objetivo, os municípios selecionados, as fontes e a metodologia.
+Apresente como hipótese de análise a existência de heterogeneidade produtiva e concentração econômica entre Natal/Região Metropolitana e diferentes polos do interior do RN, verificando nos dados se essa hipótese é confirmada.
+2. Município de destaque na Indústria
+Apresente os principais indicadores do município e explique os fatores que ajudam a explicar seu elevado VAB industrial, considerando, quando pertinentes:
+
+recursos naturais;
+atividades industriais;
+infraestrutura energética e logística;
+localização;
+empresas e cadeias produtivas;
+empregos;
+investimentos;
+qualificação da mão de obra.
+Compare seu desempenho com outros municípios ou com o RN e analise criticamente se existe diversificação industrial ou concentração em poucas atividades.
+3. Município de destaque em Serviços
+Analise o município selecionado e os fatores relacionados ao elevado VAB de Serviços, considerando, quando pertinentes:
+
+população e urbanização;
+turismo;
+comércio;
+educação e saúde;
+transportes;
+serviços empresariais;
+número de empresas;
+empregos;
+renda;
+papel do município como polo regional;
+presença de micro e pequenas empresas.
+Avalie também se o elevado VAB de Serviços está associado a uma economia diversificada ou predominantemente dependente de comércio, consumo e serviços de menor produtividade.
+4. Município de destaque na Administração Pública
+Analise o município selecionado para o setor de Administração, defesa, educação e saúde públicas e seguridade social.
+Considere:
+
+presença de órgãos públicos;
+serviços de educação e saúde;
+quantidade de servidores, quando disponível;
+transferências e receitas públicas;
+importância administrativa regional;
+dependência econômica do setor público.
+Diferencie alto VAB da Administração, elevada participação do setor na economia e efetivo desenvolvimento socioeconômico. Não considere automaticamente que maior VAB público significa maior desenvolvimento.
+5. Comparação dos municípios
+Apresente uma tabela comparativa com, quando disponíveis:
+IndicadorIndústriaServiçosAdministraçãoPopulação
+
+
+PIB
+
+
+VAB do setor principal
+
+
+Participação do setor
+
+
+PIB per capita
+
+
+Empresas
+
+
+Empregos formais
+
+
+Explique as principais diferenças entre as estruturas econômicas e identifique fatores comuns, fatores específicos e possíveis dependências econômicas.
+6. Discussão sobre desenvolvimento socioeconômico
+Relacione os resultados encontrados com a literatura sobre desenvolvimento regional e socioeconômico, especialmente os conceitos de:
+
+especialização produtiva;
+polarização econômica;
+concentração espacial;
+diversificação econômica;
+papel do Estado;
+desenvolvimento local.
+Não apenas resuma o artigo utilizado: compare suas ideias com os dados dos municípios e indique onde há convergências ou diferenças.
+7. Gráficos
+Produza gráficos que realmente contribuam para a análise, preferencialmente:
+
+VAB do setor principal dos municípios selecionados;
+participação do setor no VAB municipal;
+evolução histórica do VAB;
+comparação entre os três municípios.
+Cada gráfico deve apresentar título, unidade, período e fonte.
+Se não for possível gerar o gráfico, forneça os dados organizados e explique como ele deve ser construído.
+8. Conclusão
+Retome os principais resultados e responda:
+
+Quais fatores explicam o alto VAB industrial?
+Quais explicam o alto VAB de Serviços?
+Quais explicam o alto VAB da Administração?
+Quais municípios apresentam maior diversificação?
+Quais apresentam maior dependência de determinado setor?
+Alto VAB significa necessariamente maior desenvolvimento socioeconômico?
+A conclusão deve ser crítica e baseada nos dados.
+9. Limitações do estudo
+Informe limitações relacionadas a disponibilidade de dados, diferenças entre anos, metodologia dos indicadores e impossibilidade de estabelecer relações causais apenas a partir dos dados observados.
+10. Referências
+Apresente as fontes utilizadas em padrão ABNT, incluindo links e ano de referência.
+
+Regras
+Escreva em português brasileiro.
+Use linguagem acadêmica, mas clara e objetiva.
+Priorize dados oficiais.
+Não invente dados ou referências.
+Cite a fonte junto às informações relevantes.
+Não confunda PIB com VAB.
+Não confunda crescimento econômico com desenvolvimento socioeconômico.
+Diferencie correlação de causalidade.
+Informe explicitamente quando uma conclusão for uma hipótese ou interpretação.
+Priorize dados comparáveis e explique qualquer diferença de período.
+Não force os dados a confirmar a hipótese inicial; deixe os resultados determinarem a conclusão.
