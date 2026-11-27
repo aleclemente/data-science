@@ -1,6 +1,6 @@
 # Atividade 07 — Mini-projeto: coleta de dataset real via API
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleclemente/ciencias-de-dados/blob/main/pos-1029-analise-e-ciencia-de-dados/entregas/atividade-07-coleta-via-api/atividade-07-coleta-via-api.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleclemente/data-science/blob/main/pos-1029-analise-e-ciencia-de-dados/entregas/atividade-07-coleta-via-api/atividade-07-coleta-via-api.ipynb)
 
 **Disciplina:** POS.1029 — Análise e Ciência de Dados · **Professor:** Plácido Neto · **Avaliada:** sim
 
