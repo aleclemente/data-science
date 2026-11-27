@@ -3,7 +3,9 @@
 > **Curso**: Especialização em Ciência de Dados  
 > **Disciplina**: Estatística Aplicada à Ciência de Dados  
 > **Professor**: João Maria Filgueira  
-> **Tema**: Propriedade dos Mínimos Quadrados da Média e Cálculo do Desvio Padrão Amostral
+> **Tema**: Propriedade dos Mínimos Quadrados da Média e Cálculo do Desvio Padrão Amostral  
+> **Avaliada**: não (exercício enviado no SUAP)  
+> **Enunciado**: [material/2026-09-01-atividade-desvio-padrao.md](../../material/2026-09-01-atividade-desvio-padrao.md)
 
 ---
 
@@ -211,7 +213,7 @@ A execução do script gera a imagem [`grafico_desvio_padrao.png`](./grafico_des
 
 ## 5. Implementação em Python Comentada
 
-O código completo está implementado em [`atividade_desvio_padrao.py`](./atividade_desvio_padrao.py). A seguir, destacamos as seções-chave:
+O código completo está implementado em [`atividade-01-desvio-padrao.py`](./atividade-01-desvio-padrao.py). A seguir, destacamos as seções-chave:
 
 ```python
 import math
@@ -265,10 +267,10 @@ No terminal, a partir da raiz do repositório:
 source .venv/bin/activate
 
 # 2. Executar o script estatístico
-python estatistica/atividade_desvio_padrao.py
+python pos-1035-estatistica-aplicada/entregas/atividade-01-desvio-padrao/atividade-01-desvio-padrao.py
 ```
 
-O script imprimirá no terminal a memória de cálculo completa, as tabelas formatadas e salvará o arquivo de alta resolução [`grafico_desvio_padrao.png`](./grafico_desvio_padrao.png) na pasta `estatistica/`.
+O script imprimirá no terminal a memória de cálculo completa, as tabelas formatadas e salvará o arquivo de alta resolução [`grafico_desvio_padrao.png`](./grafico_desvio_padrao.png) na pasta desta atividade.
 
 ---
 

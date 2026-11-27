@@ -1,0 +1,625 @@
+local,ano,var,mil_reais
+Ceará-Mirim (RN),2010,37,473140.0
+Ceará-Mirim (RN),2011,37,485246.0
+Ceará-Mirim (RN),2012,37,578965.0
+Ceará-Mirim (RN),2013,37,663989.0
+Ceará-Mirim (RN),2014,37,701637.0
+Ceará-Mirim (RN),2015,37,738018.0
+Ceará-Mirim (RN),2016,37,784614.0
+Ceará-Mirim (RN),2017,37,808680.0
+Ceará-Mirim (RN),2018,37,864705.0
+Ceará-Mirim (RN),2019,37,903775.0
+Ceará-Mirim (RN),2020,37,956379.0
+Ceará-Mirim (RN),2021,37,1002193.0
+Ceará-Mirim (RN),2023,37,1260346.0
+Ceará-Mirim (RN),2010,498,431839.0
+Ceará-Mirim (RN),2011,498,446778.0
+Ceará-Mirim (RN),2012,498,524621.0
+Ceará-Mirim (RN),2013,498,612685.0
+Ceará-Mirim (RN),2014,498,636248.0
+Ceará-Mirim (RN),2015,498,670762.0
+Ceará-Mirim (RN),2016,498,716800.0
+Ceará-Mirim (RN),2017,498,740653.0
+Ceará-Mirim (RN),2018,498,791039.0
+Ceará-Mirim (RN),2019,498,831902.0
+Ceará-Mirim (RN),2020,498,867404.0
+Ceará-Mirim (RN),2021,498,904757.0
+Ceará-Mirim (RN),2023,498,
+Ceará-Mirim (RN),2010,513,25538.0
+Ceará-Mirim (RN),2011,513,27498.0
+Ceará-Mirim (RN),2012,513,30824.0
+Ceará-Mirim (RN),2013,513,24601.0
+Ceará-Mirim (RN),2014,513,34071.0
+Ceará-Mirim (RN),2015,513,38944.0
+Ceará-Mirim (RN),2016,513,41502.0
+Ceará-Mirim (RN),2017,513,43823.0
+Ceará-Mirim (RN),2018,513,41571.0
+Ceará-Mirim (RN),2019,513,48095.0
+Ceará-Mirim (RN),2020,513,57144.0
+Ceará-Mirim (RN),2021,513,74458.0
+Ceará-Mirim (RN),2023,513,
+Ceará-Mirim (RN),2010,517,39238.0
+Ceará-Mirim (RN),2011,517,40876.0
+Ceará-Mirim (RN),2012,517,58406.0
+Ceará-Mirim (RN),2013,517,95851.0
+Ceará-Mirim (RN),2014,517,83108.0
+Ceará-Mirim (RN),2015,517,65403.0
+Ceará-Mirim (RN),2016,517,68535.0
+Ceará-Mirim (RN),2017,517,48305.0
+Ceará-Mirim (RN),2018,517,49022.0
+Ceará-Mirim (RN),2019,517,52512.0
+Ceará-Mirim (RN),2020,517,52368.0
+Ceará-Mirim (RN),2021,517,45712.0
+Ceará-Mirim (RN),2023,517,
+Ceará-Mirim (RN),2010,6575,176385.0
+Ceará-Mirim (RN),2011,6575,165903.0
+Ceará-Mirim (RN),2012,6575,210457.0
+Ceará-Mirim (RN),2013,6575,230454.0
+Ceará-Mirim (RN),2014,6575,239349.0
+Ceará-Mirim (RN),2015,6575,258721.0
+Ceará-Mirim (RN),2016,6575,287266.0
+Ceará-Mirim (RN),2017,6575,312827.0
+Ceará-Mirim (RN),2018,6575,332507.0
+Ceará-Mirim (RN),2019,6575,346968.0
+Ceará-Mirim (RN),2020,6575,355341.0
+Ceará-Mirim (RN),2021,6575,365315.0
+Ceará-Mirim (RN),2023,6575,
+Ceará-Mirim (RN),2010,525,190677.0
+Ceará-Mirim (RN),2011,525,212502.0
+Ceará-Mirim (RN),2012,525,224935.0
+Ceará-Mirim (RN),2013,525,261779.0
+Ceará-Mirim (RN),2014,525,279720.0
+Ceará-Mirim (RN),2015,525,307694.0
+Ceará-Mirim (RN),2016,525,319497.0
+Ceará-Mirim (RN),2017,525,335697.0
+Ceará-Mirim (RN),2018,525,367940.0
+Ceará-Mirim (RN),2019,525,384327.0
+Ceará-Mirim (RN),2020,525,402552.0
+Ceará-Mirim (RN),2021,525,419272.0
+Ceará-Mirim (RN),2023,525,
+Parnamirim (RN),2010,37,2794285.0
+Parnamirim (RN),2011,37,2966445.0
+Parnamirim (RN),2012,37,3516135.0
+Parnamirim (RN),2013,37,4136921.0
+Parnamirim (RN),2014,37,4383204.0
+Parnamirim (RN),2015,37,4627678.0
+Parnamirim (RN),2016,37,5210838.0
+Parnamirim (RN),2017,37,5023625.0
+Parnamirim (RN),2018,37,5310681.0
+Parnamirim (RN),2019,37,5615596.0
+Parnamirim (RN),2020,37,5918025.0
+Parnamirim (RN),2021,37,6845358.0
+Parnamirim (RN),2023,37,7608526.0
+Parnamirim (RN),2010,498,2432376.0
+Parnamirim (RN),2011,498,2561777.0
+Parnamirim (RN),2012,498,3050864.0
+Parnamirim (RN),2013,498,3593182.0
+Parnamirim (RN),2014,498,3767536.0
+Parnamirim (RN),2015,498,4028321.0
+Parnamirim (RN),2016,498,4382888.0
+Parnamirim (RN),2017,498,4250603.0
+Parnamirim (RN),2018,498,4469965.0
+Parnamirim (RN),2019,498,4773405.0
+Parnamirim (RN),2020,498,4971935.0
+Parnamirim (RN),2021,498,5682309.0
+Parnamirim (RN),2023,498,
+Parnamirim (RN),2010,513,20524.0
+Parnamirim (RN),2011,513,23326.0
+Parnamirim (RN),2012,513,28640.0
+Parnamirim (RN),2013,513,35276.0
+Parnamirim (RN),2014,513,37892.0
+Parnamirim (RN),2015,513,30765.0
+Parnamirim (RN),2016,513,24158.0
+Parnamirim (RN),2017,513,31703.0
+Parnamirim (RN),2018,513,38687.0
+Parnamirim (RN),2019,513,54301.0
+Parnamirim (RN),2020,513,64788.0
+Parnamirim (RN),2021,513,84031.0
+Parnamirim (RN),2023,513,
+Parnamirim (RN),2010,517,590557.0
+Parnamirim (RN),2011,517,625370.0
+Parnamirim (RN),2012,517,801282.0
+Parnamirim (RN),2013,517,862449.0
+Parnamirim (RN),2014,517,666657.0
+Parnamirim (RN),2015,517,842921.0
+Parnamirim (RN),2016,517,782826.0
+Parnamirim (RN),2017,517,671014.0
+Parnamirim (RN),2018,517,743189.0
+Parnamirim (RN),2019,517,731443.0
+Parnamirim (RN),2020,517,649004.0
+Parnamirim (RN),2021,517,577662.0
+Parnamirim (RN),2023,517,
+Parnamirim (RN),2010,6575,1266261.0
+Parnamirim (RN),2011,6575,1283258.0
+Parnamirim (RN),2012,6575,1528073.0
+Parnamirim (RN),2013,6575,1890078.0
+Parnamirim (RN),2014,6575,2143591.0
+Parnamirim (RN),2015,6575,2145440.0
+Parnamirim (RN),2016,6575,2466941.0
+Parnamirim (RN),2017,6575,2443975.0
+Parnamirim (RN),2018,6575,2481983.0
+Parnamirim (RN),2019,6575,2684813.0
+Parnamirim (RN),2020,6575,2822759.0
+Parnamirim (RN),2021,6575,3470184.0
+Parnamirim (RN),2023,6575,
+Parnamirim (RN),2010,525,555034.0
+Parnamirim (RN),2011,525,629824.0
+Parnamirim (RN),2012,525,692870.0
+Parnamirim (RN),2013,525,805378.0
+Parnamirim (RN),2014,525,919396.0
+Parnamirim (RN),2015,525,1009194.0
+Parnamirim (RN),2016,525,1108963.0
+Parnamirim (RN),2017,525,1103911.0
+Parnamirim (RN),2018,525,1206105.0
+Parnamirim (RN),2019,525,1302848.0
+Parnamirim (RN),2020,525,1435385.0
+Parnamirim (RN),2021,525,1550432.0
+Parnamirim (RN),2023,525,
+Guamaré (RN),2010,37,701908.0
+Guamaré (RN),2011,37,266331.0
+Guamaré (RN),2012,37,-19046.0
+Guamaré (RN),2013,37,4199.0
+Guamaré (RN),2014,37,260612.0
+Guamaré (RN),2015,37,1241923.0
+Guamaré (RN),2016,37,1875112.0
+Guamaré (RN),2017,37,1624965.0
+Guamaré (RN),2018,37,1388429.0
+Guamaré (RN),2019,37,1686496.0
+Guamaré (RN),2020,37,1727729.0
+Guamaré (RN),2021,37,2042133.0
+Guamaré (RN),2023,37,2581922.0
+Guamaré (RN),2010,498,647610.0
+Guamaré (RN),2011,498,206420.0
+Guamaré (RN),2012,498,-92078.0
+Guamaré (RN),2013,498,-67394.0
+Guamaré (RN),2014,498,196100.0
+Guamaré (RN),2015,498,1165215.0
+Guamaré (RN),2016,498,1791771.0
+Guamaré (RN),2017,498,1555643.0
+Guamaré (RN),2018,498,1317124.0
+Guamaré (RN),2019,498,1605895.0
+Guamaré (RN),2020,498,1656892.0
+Guamaré (RN),2021,498,1961362.0
+Guamaré (RN),2023,498,
+Guamaré (RN),2010,513,14961.0
+Guamaré (RN),2011,513,15164.0
+Guamaré (RN),2012,513,17191.0
+Guamaré (RN),2013,513,21746.0
+Guamaré (RN),2014,513,25486.0
+Guamaré (RN),2015,513,29988.0
+Guamaré (RN),2016,513,38101.0
+Guamaré (RN),2017,513,45502.0
+Guamaré (RN),2018,513,48971.0
+Guamaré (RN),2019,513,36246.0
+Guamaré (RN),2020,513,36420.0
+Guamaré (RN),2021,513,41293.0
+Guamaré (RN),2023,513,
+Guamaré (RN),2010,517,344973.0
+Guamaré (RN),2011,517,-108114.0
+Guamaré (RN),2012,517,-417323.0
+Guamaré (RN),2013,517,-438114.0
+Guamaré (RN),2014,517,-236574.0
+Guamaré (RN),2015,517,673634.0
+Guamaré (RN),2016,517,1287124.0
+Guamaré (RN),2017,517,1112155.0
+Guamaré (RN),2018,517,867062.0
+Guamaré (RN),2019,517,1119264.0
+Guamaré (RN),2020,517,1168421.0
+Guamaré (RN),2021,517,1471020.0
+Guamaré (RN),2023,517,
+Guamaré (RN),2010,6575,205650.0
+Guamaré (RN),2011,6575,199517.0
+Guamaré (RN),2012,6575,196523.0
+Guamaré (RN),2013,6575,220321.0
+Guamaré (RN),2014,6575,256054.0
+Guamaré (RN),2015,6575,295689.0
+Guamaré (RN),2016,6575,300991.0
+Guamaré (RN),2017,6575,258150.0
+Guamaré (RN),2018,6575,241626.0
+Guamaré (RN),2019,6575,280833.0
+Guamaré (RN),2020,6575,266857.0
+Guamaré (RN),2021,6575,258287.0
+Guamaré (RN),2023,6575,
+Guamaré (RN),2010,525,82025.0
+Guamaré (RN),2011,525,99854.0
+Guamaré (RN),2012,525,111531.0
+Guamaré (RN),2013,525,128653.0
+Guamaré (RN),2014,525,151133.0
+Guamaré (RN),2015,525,165904.0
+Guamaré (RN),2016,525,165555.0
+Guamaré (RN),2017,525,139836.0
+Guamaré (RN),2018,525,159465.0
+Guamaré (RN),2019,525,169552.0
+Guamaré (RN),2020,525,185194.0
+Guamaré (RN),2021,525,190763.0
+Guamaré (RN),2023,525,
+João Câmara (RN),2010,37,208545.0
+João Câmara (RN),2011,37,234725.0
+João Câmara (RN),2012,37,313814.0
+João Câmara (RN),2013,37,479389.0
+João Câmara (RN),2014,37,528025.0
+João Câmara (RN),2015,37,820754.0
+João Câmara (RN),2016,37,981329.0
+João Câmara (RN),2017,37,1046611.0
+João Câmara (RN),2018,37,928654.0
+João Câmara (RN),2019,37,930423.0
+João Câmara (RN),2020,37,1091593.0
+João Câmara (RN),2021,37,1269833.0
+João Câmara (RN),2023,37,1527022.0
+João Câmara (RN),2010,498,191474.0
+João Câmara (RN),2011,498,213854.0
+João Câmara (RN),2012,498,282053.0
+João Câmara (RN),2013,498,415840.0
+João Câmara (RN),2014,498,459879.0
+João Câmara (RN),2015,498,756382.0
+João Câmara (RN),2016,498,906872.0
+João Câmara (RN),2017,498,980129.0
+João Câmara (RN),2018,498,876342.0
+João Câmara (RN),2019,498,875053.0
+João Câmara (RN),2020,498,1024291.0
+João Câmara (RN),2021,498,1197893.0
+João Câmara (RN),2023,498,
+João Câmara (RN),2010,513,8557.0
+João Câmara (RN),2011,513,12634.0
+João Câmara (RN),2012,513,11088.0
+João Câmara (RN),2013,513,12771.0
+João Câmara (RN),2014,513,11971.0
+João Câmara (RN),2015,513,15596.0
+João Câmara (RN),2016,513,15353.0
+João Câmara (RN),2017,513,15558.0
+João Câmara (RN),2018,513,16379.0
+João Câmara (RN),2019,513,18581.0
+João Câmara (RN),2020,513,19740.0
+João Câmara (RN),2021,513,21379.0
+João Câmara (RN),2023,513,
+João Câmara (RN),2010,517,16692.0
+João Câmara (RN),2011,517,16628.0
+João Câmara (RN),2012,517,22230.0
+João Câmara (RN),2013,517,104180.0
+João Câmara (RN),2014,517,141743.0
+João Câmara (RN),2015,517,422603.0
+João Câmara (RN),2016,517,540647.0
+João Câmara (RN),2017,517,570655.0
+João Câmara (RN),2018,517,499385.0
+João Câmara (RN),2019,517,443673.0
+João Câmara (RN),2020,517,552662.0
+João Câmara (RN),2021,517,712023.0
+João Câmara (RN),2023,517,
+João Câmara (RN),2010,6575,80897.0
+João Câmara (RN),2011,6575,87431.0
+João Câmara (RN),2012,6575,144477.0
+João Câmara (RN),2013,6575,177237.0
+João Câmara (RN),2014,6575,179144.0
+João Câmara (RN),2015,6575,173850.0
+João Câmara (RN),2016,6575,193093.0
+João Câmara (RN),2017,6575,217373.0
+João Câmara (RN),2018,6575,186939.0
+João Câmara (RN),2019,6575,212005.0
+João Câmara (RN),2020,6575,234759.0
+João Câmara (RN),2021,6575,241850.0
+João Câmara (RN),2023,6575,
+João Câmara (RN),2010,525,85329.0
+João Câmara (RN),2011,525,97162.0
+João Câmara (RN),2012,525,104258.0
+João Câmara (RN),2013,525,121653.0
+João Câmara (RN),2014,525,127022.0
+João Câmara (RN),2015,525,144332.0
+João Câmara (RN),2016,525,157778.0
+João Câmara (RN),2017,525,176544.0
+João Câmara (RN),2018,525,173640.0
+João Câmara (RN),2019,525,200794.0
+João Câmara (RN),2020,525,217130.0
+João Câmara (RN),2021,525,222640.0
+João Câmara (RN),2023,525,
+Mossoró (RN),2010,37,4438424.0
+Mossoró (RN),2011,37,5083833.0
+Mossoró (RN),2012,37,5721302.0
+Mossoró (RN),2013,37,6151752.0
+Mossoró (RN),2014,37,6229278.0
+Mossoró (RN),2015,37,5994319.0
+Mossoró (RN),2016,37,5818423.0
+Mossoró (RN),2017,37,6167477.0
+Mossoró (RN),2018,37,6734570.0
+Mossoró (RN),2019,37,7305492.0
+Mossoró (RN),2020,37,7201163.0
+Mossoró (RN),2021,37,8071719.0
+Mossoró (RN),2023,37,10323666.0
+Mossoró (RN),2010,498,3975889.0
+Mossoró (RN),2011,498,4543922.0
+Mossoró (RN),2012,498,5145765.0
+Mossoró (RN),2013,498,5547450.0
+Mossoró (RN),2014,498,5613719.0
+Mossoró (RN),2015,498,5352322.0
+Mossoró (RN),2016,498,5132461.0
+Mossoró (RN),2017,498,5434932.0
+Mossoró (RN),2018,498,5909686.0
+Mossoró (RN),2019,498,6428973.0
+Mossoró (RN),2020,498,6257745.0
+Mossoró (RN),2021,498,6898438.0
+Mossoró (RN),2023,498,
+Mossoró (RN),2010,513,98080.0
+Mossoró (RN),2011,513,118769.0
+Mossoró (RN),2012,513,129225.0
+Mossoró (RN),2013,513,141403.0
+Mossoró (RN),2014,513,133257.0
+Mossoró (RN),2015,513,141269.0
+Mossoró (RN),2016,513,139360.0
+Mossoró (RN),2017,513,143454.0
+Mossoró (RN),2018,513,178191.0
+Mossoró (RN),2019,513,206873.0
+Mossoró (RN),2020,513,225829.0
+Mossoró (RN),2021,513,184225.0
+Mossoró (RN),2023,513,
+Mossoró (RN),2010,517,1388216.0
+Mossoró (RN),2011,517,1657176.0
+Mossoró (RN),2012,517,1897486.0
+Mossoró (RN),2013,517,1965780.0
+Mossoró (RN),2014,517,1729182.0
+Mossoró (RN),2015,517,1384182.0
+Mossoró (RN),2016,517,968461.0
+Mossoró (RN),2017,517,952808.0
+Mossoró (RN),2018,517,1199290.0
+Mossoró (RN),2019,517,1250600.0
+Mossoró (RN),2020,517,1098818.0
+Mossoró (RN),2021,517,1285190.0
+Mossoró (RN),2023,517,
+Mossoró (RN),2010,6575,1769550.0
+Mossoró (RN),2011,6575,1944461.0
+Mossoró (RN),2012,6575,2240225.0
+Mossoró (RN),2013,6575,2411941.0
+Mossoró (RN),2014,6575,2646876.0
+Mossoró (RN),2015,6575,2646832.0
+Mossoró (RN),2016,6575,2798739.0
+Mossoró (RN),2017,6575,3011786.0
+Mossoró (RN),2018,6575,3173896.0
+Mossoró (RN),2019,6575,3478543.0
+Mossoró (RN),2020,6575,3382850.0
+Mossoró (RN),2021,6575,3766138.0
+Mossoró (RN),2023,6575,
+Mossoró (RN),2010,525,720042.0
+Mossoró (RN),2011,525,823516.0
+Mossoró (RN),2012,525,878829.0
+Mossoró (RN),2013,525,1028326.0
+Mossoró (RN),2014,525,1104403.0
+Mossoró (RN),2015,525,1180039.0
+Mossoró (RN),2016,525,1225900.0
+Mossoró (RN),2017,525,1326883.0
+Mossoró (RN),2018,525,1358309.0
+Mossoró (RN),2019,525,1492957.0
+Mossoró (RN),2020,525,1550248.0
+Mossoró (RN),2021,525,1662885.0
+Mossoró (RN),2023,525,
+Natal (RN),2010,37,12918972.0
+Natal (RN),2011,37,14701974.0
+Natal (RN),2012,37,16542636.0
+Natal (RN),2013,37,18465101.0
+Natal (RN),2014,37,19100605.0
+Natal (RN),2015,37,20591133.0
+Natal (RN),2016,37,21861053.0
+Natal (RN),2017,37,23458658.0
+Natal (RN),2018,37,23372340.0
+Natal (RN),2019,37,24139377.0
+Natal (RN),2020,37,22675071.0
+Natal (RN),2021,37,24186139.0
+Natal (RN),2023,37,31162043.0
+Natal (RN),2010,498,11221667.0
+Natal (RN),2011,498,12788620.0
+Natal (RN),2012,498,14491322.0
+Natal (RN),2013,498,16244550.0
+Natal (RN),2014,498,16879340.0
+Natal (RN),2015,498,18151059.0
+Natal (RN),2016,498,18937853.0
+Natal (RN),2017,498,20296908.0
+Natal (RN),2018,498,20107582.0
+Natal (RN),2019,498,20958389.0
+Natal (RN),2020,498,19581037.0
+Natal (RN),2021,498,20775502.0
+Natal (RN),2023,498,
+Natal (RN),2010,513,11310.0
+Natal (RN),2011,513,11272.0
+Natal (RN),2012,513,13284.0
+Natal (RN),2013,513,16570.0
+Natal (RN),2014,513,14244.0
+Natal (RN),2015,513,15289.0
+Natal (RN),2016,513,17083.0
+Natal (RN),2017,513,19485.0
+Natal (RN),2018,513,21777.0
+Natal (RN),2019,513,22815.0
+Natal (RN),2020,513,19152.0
+Natal (RN),2021,513,19998.0
+Natal (RN),2023,513,
+Natal (RN),2010,517,1851697.0
+Natal (RN),2011,517,2338121.0
+Natal (RN),2012,517,2654537.0
+Natal (RN),2013,517,2979331.0
+Natal (RN),2014,517,2914685.0
+Natal (RN),2015,517,3016913.0
+Natal (RN),2016,517,2927398.0
+Natal (RN),2017,517,2920256.0
+Natal (RN),2018,517,2904889.0
+Natal (RN),2019,517,2789384.0
+Natal (RN),2020,517,2650476.0
+Natal (RN),2021,517,2556518.0
+Natal (RN),2023,517,
+Natal (RN),2010,6575,7051965.0
+Natal (RN),2011,6575,7818260.0
+Natal (RN),2012,6575,9033245.0
+Natal (RN),2013,6575,10122367.0
+Natal (RN),2014,6575,10553275.0
+Natal (RN),2015,6575,11508437.0
+Natal (RN),2016,6575,12140656.0
+Natal (RN),2017,6575,13157014.0
+Natal (RN),2018,6575,12893735.0
+Natal (RN),2019,6575,13620093.0
+Natal (RN),2020,6575,12191042.0
+Natal (RN),2021,6575,13347894.0
+Natal (RN),2023,6575,
+Natal (RN),2010,525,2306696.0
+Natal (RN),2011,525,2620968.0
+Natal (RN),2012,525,2790257.0
+Natal (RN),2013,525,3126281.0
+Natal (RN),2014,525,3397135.0
+Natal (RN),2015,525,3610420.0
+Natal (RN),2016,525,3852716.0
+Natal (RN),2017,525,4200153.0
+Natal (RN),2018,525,4287182.0
+Natal (RN),2019,525,4526097.0
+Natal (RN),2020,525,4720366.0
+Natal (RN),2021,525,4851091.0
+Natal (RN),2023,525,
+Pau dos Ferros (RN),2010,37,235360.0
+Pau dos Ferros (RN),2011,37,264791.0
+Pau dos Ferros (RN),2012,37,315001.0
+Pau dos Ferros (RN),2013,37,338782.0
+Pau dos Ferros (RN),2014,37,362903.0
+Pau dos Ferros (RN),2015,37,404786.0
+Pau dos Ferros (RN),2016,37,429044.0
+Pau dos Ferros (RN),2017,37,493223.0
+Pau dos Ferros (RN),2018,37,527652.0
+Pau dos Ferros (RN),2019,37,613781.0
+Pau dos Ferros (RN),2020,37,629869.0
+Pau dos Ferros (RN),2021,37,709328.0
+Pau dos Ferros (RN),2023,37,827724.0
+Pau dos Ferros (RN),2010,498,207240.0
+Pau dos Ferros (RN),2011,498,234172.0
+Pau dos Ferros (RN),2012,498,280666.0
+Pau dos Ferros (RN),2013,498,305993.0
+Pau dos Ferros (RN),2014,498,322278.0
+Pau dos Ferros (RN),2015,498,359935.0
+Pau dos Ferros (RN),2016,498,382702.0
+Pau dos Ferros (RN),2017,498,441747.0
+Pau dos Ferros (RN),2018,498,468648.0
+Pau dos Ferros (RN),2019,498,542553.0
+Pau dos Ferros (RN),2020,498,551699.0
+Pau dos Ferros (RN),2021,498,612636.0
+Pau dos Ferros (RN),2023,498,
+Pau dos Ferros (RN),2010,513,4157.0
+Pau dos Ferros (RN),2011,513,4382.0
+Pau dos Ferros (RN),2012,513,3785.0
+Pau dos Ferros (RN),2013,513,3731.0
+Pau dos Ferros (RN),2014,513,4959.0
+Pau dos Ferros (RN),2015,513,5046.0
+Pau dos Ferros (RN),2016,513,5148.0
+Pau dos Ferros (RN),2017,513,5684.0
+Pau dos Ferros (RN),2018,513,6020.0
+Pau dos Ferros (RN),2019,513,6598.0
+Pau dos Ferros (RN),2020,513,8433.0
+Pau dos Ferros (RN),2021,513,9012.0
+Pau dos Ferros (RN),2023,513,
+Pau dos Ferros (RN),2010,517,12752.0
+Pau dos Ferros (RN),2011,517,15557.0
+Pau dos Ferros (RN),2012,517,19702.0
+Pau dos Ferros (RN),2013,517,18175.0
+Pau dos Ferros (RN),2014,517,18124.0
+Pau dos Ferros (RN),2015,517,18444.0
+Pau dos Ferros (RN),2016,517,24410.0
+Pau dos Ferros (RN),2017,517,22562.0
+Pau dos Ferros (RN),2018,517,25900.0
+Pau dos Ferros (RN),2019,517,28082.0
+Pau dos Ferros (RN),2020,517,27619.0
+Pau dos Ferros (RN),2021,517,38730.0
+Pau dos Ferros (RN),2023,517,
+Pau dos Ferros (RN),2010,6575,118403.0
+Pau dos Ferros (RN),2011,6575,132941.0
+Pau dos Ferros (RN),2012,6575,169153.0
+Pau dos Ferros (RN),2013,6575,178043.0
+Pau dos Ferros (RN),2014,6575,186594.0
+Pau dos Ferros (RN),2015,6575,214079.0
+Pau dos Ferros (RN),2016,6575,224472.0
+Pau dos Ferros (RN),2017,6575,275861.0
+Pau dos Ferros (RN),2018,6575,296401.0
+Pau dos Ferros (RN),2019,6575,352110.0
+Pau dos Ferros (RN),2020,6575,350767.0
+Pau dos Ferros (RN),2021,6575,389068.0
+Pau dos Ferros (RN),2023,6575,
+Pau dos Ferros (RN),2010,525,71928.0
+Pau dos Ferros (RN),2011,525,81293.0
+Pau dos Ferros (RN),2012,525,88026.0
+Pau dos Ferros (RN),2013,525,106043.0
+Pau dos Ferros (RN),2014,525,112601.0
+Pau dos Ferros (RN),2015,525,122366.0
+Pau dos Ferros (RN),2016,525,128671.0
+Pau dos Ferros (RN),2017,525,137641.0
+Pau dos Ferros (RN),2018,525,140326.0
+Pau dos Ferros (RN),2019,525,155763.0
+Pau dos Ferros (RN),2020,525,164880.0
+Pau dos Ferros (RN),2021,525,175826.0
+Pau dos Ferros (RN),2023,525,
+Rio Grande do Norte,2010,37,36184502.0
+Rio Grande do Norte,2011,37,40992925.0
+Rio Grande do Norte,2012,37,46412208.0
+Rio Grande do Norte,2013,37,51518457.0
+Rio Grande do Norte,2014,37,54022584.0
+Rio Grande do Norte,2015,37,57250867.0
+Rio Grande do Norte,2016,37,59677389.0
+Rio Grande do Norte,2017,37,64305995.0
+Rio Grande do Norte,2018,37,66969562.0
+Rio Grande do Norte,2019,37,71336780.0
+Rio Grande do Norte,2020,37,71577107.0
+Rio Grande do Norte,2021,37,80180733.0
+Rio Grande do Norte,2023,37,101740275.0
+Rio Grande do Norte,2010,498,32149190.0
+Rio Grande do Norte,2011,498,36403024.0
+Rio Grande do Norte,2012,498,41257031.0
+Rio Grande do Norte,2013,498,45903800.0
+Rio Grande do Norte,2014,498,48235009.0
+Rio Grande do Norte,2015,498,51183888.0
+Rio Grande do Norte,2016,498,53133028.0
+Rio Grande do Norte,2017,498,57389774.0
+Rio Grande do Norte,2018,498,59575711.0
+Rio Grande do Norte,2019,498,63866962.0
+Rio Grande do Norte,2020,498,63816254.0
+Rio Grande do Norte,2021,498,71064332.0
+Rio Grande do Norte,2023,498,
+Rio Grande do Norte,2010,513,1148622.0
+Rio Grande do Norte,2011,513,1332371.0
+Rio Grande do Norte,2012,513,1301904.0
+Rio Grande do Norte,2013,513,1484894.0
+Rio Grande do Norte,2014,513,1540755.0
+Rio Grande do Norte,2015,513,1638635.0
+Rio Grande do Norte,2016,513,1866108.0
+Rio Grande do Norte,2017,513,2160568.0
+Rio Grande do Norte,2018,513,2596771.0
+Rio Grande do Norte,2019,513,2694052.0
+Rio Grande do Norte,2020,513,3010588.0
+Rio Grande do Norte,2021,513,3141755.0
+Rio Grande do Norte,2023,513,
+Rio Grande do Norte,2010,517,7683076.0
+Rio Grande do Norte,2011,517,8955950.0
+Rio Grande do Norte,2012,517,10261649.0
+Rio Grande do Norte,2013,517,10736594.0
+Rio Grande do Norte,2014,517,10559610.0
+Rio Grande do Norte,2015,517,10741879.0
+Rio Grande do Norte,2016,517,10096238.0
+Rio Grande do Norte,2017,517,10694795.0
+Rio Grande do Norte,2018,517,11372518.0
+Rio Grande do Norte,2019,517,11751480.0
+Rio Grande do Norte,2020,517,11811274.0
+Rio Grande do Norte,2021,517,14728096.0
+Rio Grande do Norte,2023,517,
+Rio Grande do Norte,2010,6575,14253228.0
+Rio Grande do Norte,2011,6575,15864659.0
+Rio Grande do Norte,2012,6575,18625292.0
+Rio Grande do Norte,2013,6575,20935627.0
+Rio Grande do Norte,2014,6575,22328626.0
+Rio Grande do Norte,2015,6575,23931525.0
+Rio Grande do Norte,2016,6575,25368841.0
+Rio Grande do Norte,2017,6575,27524283.0
+Rio Grande do Norte,2018,6575,28127591.0
+Rio Grande do Norte,2019,6575,30468869.0
+Rio Grande do Norte,2020,6575,29207942.0
+Rio Grande do Norte,2021,6575,32321165.0
+Rio Grande do Norte,2023,6575,
+Rio Grande do Norte,2010,525,9064264.0
+Rio Grande do Norte,2011,525,10250044.0
+Rio Grande do Norte,2012,525,11068186.0
+Rio Grande do Norte,2013,525,12746686.0
+Rio Grande do Norte,2014,525,13806018.0
+Rio Grande do Norte,2015,525,14871849.0
+Rio Grande do Norte,2016,525,15801841.0
+Rio Grande do Norte,2017,525,17010128.0
+Rio Grande do Norte,2018,525,17478831.0
+Rio Grande do Norte,2019,525,18952562.0
+Rio Grande do Norte,2020,525,19786450.0
+Rio Grande do Norte,2021,525,20873316.0
+Rio Grande do Norte,2023,525,
