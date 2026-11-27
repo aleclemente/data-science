@@ -24,18 +24,19 @@ Uma atividade só entra aqui depois do prazo de entrega. Nas Aulas 01 a 03, 11, 
 
 | Aula | Tema | Pasta |
 |---|---|---|
-| 01 | Fundamentos e panorama da ciência de dados (slides, dicionário dos microdados do ENEM 2025/RN e exemplo de análise das escolas) | [aula-01-fundamentos-ciencia-de-dados/](material/aula-01-fundamentos-ciencia-de-dados/) |
+| 01 | Fundamentos e panorama da ciência de dados (slides, dicionário dos microdados do ENEM 2025/RN e exemplo do ranking das escolas, com o `main.py`) | [aula-01-fundamentos-ciencia-de-dados/](material/aula-01-fundamentos-ciencia-de-dados/) |
 | 02 | Introdução ao ML e KDD: os 3 notebooks do ciclo KDD sobre o ENEM 2025/RN e os dados | [aula-02-introducao-ml-kdd/](material/aula-02-introducao-ml-kdd/) |
 | 03 | Ambiente Python e primeiros passos (exemplo com NumPy; o livro está no tutorial de Python) | [aula-03-ambiente-python/](material/aula-03-ambiente-python/) |
 | 04 | Laboratório NumPy e Pandas I (slides, laboratório, dados e roteiro) | [aula-04-numpy-pandas-i/](material/aula-04-numpy-pandas-i/) |
-| 05 | Laboratório Pandas II: agrupamentos e joins | [aula-05-pandas-ii-agrupamentos-joins/](material/aula-05-pandas-ii-agrupamentos-joins/) |
+| 05 | Laboratório Pandas II: agrupamentos e joins (apostila, laboratório, dados e roteiro) | [aula-05-pandas-ii-agrupamentos-joins/](material/aula-05-pandas-ii-agrupamentos-joins/) |
 | 06 | Processos e fontes de dados (slides e script de exemplo) | [aula-06-processos-e-fontes-de-dados/](material/aula-06-processos-e-fontes-de-dados/) |
 | 07 | Coleta via APIs REST (exemplos e enunciado do mini-projeto) | [aula-07-coleta-via-api/](material/aula-07-coleta-via-api/) |
 | 08 | Web scraping com BeautifulSoup (laboratório e mini-site fictício) | [aula-08-web-scraping/](material/aula-08-web-scraping/) |
-| 09 | Qualidade de dados e limpeza | [aula-09-qualidade-limpeza/](material/aula-09-qualidade-limpeza/) |
+| 09 | Qualidade de dados e limpeza (apostila, notebooks e dados) | [aula-09-qualidade-limpeza/](material/aula-09-qualidade-limpeza/) |
 | 10 | Pipeline de limpeza completo | [aula-10-pipeline-limpeza/](material/aula-10-pipeline-limpeza/) |
-| 11 | Fundamentos de AED e estatística descritiva (só o PDF; a avaliação foi formulário) | [aula-11-aed-estatistica-descritiva/](material/aula-11-aed-estatistica-descritiva/) |
+| 11 | Fundamentos de AED e estatística descritiva (apostila, notebooks e dados; a avaliação foi formulário) | [aula-11-aed-estatistica-descritiva/](material/aula-11-aed-estatistica-descritiva/) |
 | 12 | Laboratório: Matplotlib, Seaborn e Plotly | [aula-12-lab-matplotlib-seaborn-plotly/](material/aula-12-lab-matplotlib-seaborn-plotly/) |
 | 14 | scikit-learn: fluxo de trabalho em ML | [aula-14-scikit-learn-fluxo-ml/](material/aula-14-scikit-learn-fluxo-ml/) |
-| 15 | Laboratório: modelos de classificação | [aula-15-modelos-classificacao/](material/aula-15-modelos-classificacao/) |
+| 15 | Laboratório: modelos de classificação (apostila, slides, notebooks e dados) | [aula-15-modelos-classificacao/](material/aula-15-modelos-classificacao/) |
+| — | A disciplina: ementa, cronograma 2026.2, sistema de avaliação e o PPC da especialização | [disciplina/](material/disciplina/) |
 | — | Tutorial de Python, o livro da Aula 03 (PDF e scripts de exemplo) | [tutorial-python/](material/tutorial-python/) |
